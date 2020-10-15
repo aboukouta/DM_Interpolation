@@ -2,9 +2,9 @@
 ### Script interpolation spatiale ###
 #####################################
 
-# Master 2 BEE, BEM, BI, Université de Bordeaux
+# Université de Bordeaux
 # Annee universitaire 2020 - 2021
-# Par Marie-Lise BENOT
+# Abou Kouta
 
 setwd ("/home/abou/Documents/Master2/statistique/TDM-20200917/TDM_Interpolation/Interpolation_data_script") # indiquer le chemin vers le repertoire courant
 
